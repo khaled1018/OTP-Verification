@@ -3,7 +3,6 @@ let proceedBtn = document.getElementsByTagName("button")[0];
 const popoverSuccess = document.getElementById("correct-otp");
 
 let correctOtp = "123456";
-let count = 0;
 let isProceeded = false;
 
 intputNumbers.forEach((input, index) => {
