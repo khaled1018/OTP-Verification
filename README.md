@@ -3,6 +3,9 @@
 ## 🚀 Introduction
 This project is a simple **OTP (One-Time Password) Verification System** built using **HTML, CSS, and JavaScript**. The UI provides a sleek input system for users to enter a 6-digit OTP, with auto-focus functionality and a verification check.
 
+## 🎥 Demo
+[Watch the Demo](https://github.com/khaled1018/OTP-Verification/blob/main/assets/demo.gif)
+
 ## ✨ Features
 - Smooth OTP input with auto-focus functionality.
 - Validation to ensure only numbers are entered.
